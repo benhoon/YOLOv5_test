@@ -1,2 +1,2 @@
 # YOLOv5_test
-인턴하면서 실습한 YOLOv5 코드
+YOLOv5 실습 코드
